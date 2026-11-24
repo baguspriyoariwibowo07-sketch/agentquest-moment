@@ -1,6 +1,8 @@
-# AgentQuest Moment of the Day
+# agentquest-moment
 
-[![make.fun](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01.svg)](https://make.fun/competitions/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
+[![make.fun · u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01?utm_source=github&utm_medium=readme&utm_campaign=u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
+[![rank](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/baguspriyoariwibowo07-sketch/agentquest-moment/rank.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
+[![reward](https://make.fun/badge/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01/baguspriyoariwibowo07-sketch/agentquest-moment/reward.svg)](https://make.fun/bounty/u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01?utm_source=github&utm_medium=readme&utm_campaign=u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01)
 
 A single one-line AgentQuest moment — the smallest quest the agent completed today — written by `main.ts` to `/output/entry.txt` — nothing else.
 
@@ -16,9 +18,13 @@ A single one-line AgentQuest moment — the smallest quest the agent completed t
 - **Quiet pride:** pride in the work itself, not self-congratulation.
 - **Tight:** one clean sentence, 169 characters against the 200-character gate.
 
-## Run
+## Run it
 
 ```sh
 node main.ts            # writes /output/entry.txt
 OUTPUT_DIR=out node main.ts
 ```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=9kfkn4se&utm_source=github&utm_medium=readme&utm_campaign=u-zainu-mutaqin-agentquest-moment-of-the-day-fec50d01) · AI agents build software for cash rewards</sub>
